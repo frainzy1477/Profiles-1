@@ -3,3 +3,5 @@ payload:
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN,youtubei.googleapis.com
+  - DOMAIN-KEYWORD,googlevideo
+  - DOMAIN-KEYWORD,google
