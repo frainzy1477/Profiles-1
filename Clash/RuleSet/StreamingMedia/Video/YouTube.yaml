@@ -5,3 +5,9 @@ payload:
   - DOMAIN,youtubei.googleapis.com
   - DOMAIN-KEYWORD,googlevideo
   - DOMAIN-KEYWORD,google
+  - DOMAIN-SUFFIX,ytimg.com 
+  - DOMAIN,www.youtube.com
+  - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-KEYWORD,google 
+  - DOMAIN-KEYWORD,youtube
+  - DOMAIN-KEYWORD,gmail
