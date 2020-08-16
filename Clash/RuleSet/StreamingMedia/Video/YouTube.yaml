@@ -11,3 +11,4 @@ payload:
   - DOMAIN-KEYWORD,google 
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-KEYWORD,gmail
+  - DOMAIN-SUFFIX,ggpht.com
